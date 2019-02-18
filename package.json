@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/pmurph4414/Node_app#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.11",
+    "socket.io": "^2.2.0"
   }
 }
